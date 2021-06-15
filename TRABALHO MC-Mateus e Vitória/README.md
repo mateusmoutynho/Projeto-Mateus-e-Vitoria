@@ -4,9 +4,10 @@ Este projeto tem por ideal, apresentar notícias da cidade de Dianópolis!
 
 ## Tecnologias usadas
 
-HTML e CSS 
+HTML, CSS e JavaScript
 
-## Autor do projeto 
+## Autores do projeto 
 
-Mateus Moutinho
+Mateus Moutinho e Vitória Reis
+
 
